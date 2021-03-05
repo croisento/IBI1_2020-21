@@ -1,4 +1,24 @@
-
-I like talk radio
-I like snow
-I like biscuits
+<<<<<<< HEAD
+I like Harry Potter
+I like coffe
+I like chocolate
+I like snow 
+=======
+I like tea 
+I like 9
+I like her
+I like him
+I like red
+I like rabbit 
+>>>>>>> Anne
+I like flower
+I like piano
+I don't like purple
+I like green
+I like plant
+<<<<<<< HEAD
+I like you very much
+ 
+=======
+I like you 
+>>>>>>> Anne

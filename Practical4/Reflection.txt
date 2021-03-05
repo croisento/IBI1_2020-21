@@ -1,0 +1,6 @@
+It must say this practical is challenging to me, as it is hard to undrstand the codes and have too much contents to learn. In this class, what I usually do is turn to baidu and teachers for 
+help. 
+Baidu is very useful to type code and soleve problems. For example: Due to the Chinese pin, it is hard to do "git clone". However, from baidu, I have found a good sulution, which is to add 
+".cnpmjs.org" behind "github.com".
+
+All in all, though not everthing is going well, the end is good.
