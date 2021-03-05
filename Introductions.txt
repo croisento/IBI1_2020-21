@@ -1,6 +1,0 @@
-Hello world
-Name: Zhang Wanying
-Birthday: 8th July 2002
-Major: Biomedical science
-School: Zhejiang university
-
